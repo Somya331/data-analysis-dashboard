@@ -1,4 +1,5 @@
 #Road Accident Analysis Dashboard
+
 ##Project Objective
 The objective of this project is to design an interactive Excel-based dashboard that provides insights into road accident data. The dashboard helps analyze accident trends, severity, vehicle involvement, road conditions, and other factors, enabling data-driven decision making for safety improvements.
 ##Data set used 
